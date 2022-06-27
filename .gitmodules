@@ -1,3 +1,6 @@
 [submodule "auto_sg1"]
 	path = auto_sg1
 	url = https://github.com/zdebeurs/mpyfit
+[submodule "mpyfit1"]
+	path = mpyfit1
+	url = https://github.com/zdebeurs/mpyfit
